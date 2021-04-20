@@ -68,11 +68,11 @@ div#center #date {
 }
 
 #footer div#ticker ul li {
-    font-size: 2rem;
+    font-size: 3rem;
+    padding-top: 5px;
 }
 
 img#unboundsplash {
     display: block;
     margin: 0 auto;
-    width: 100%;
 }
